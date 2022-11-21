@@ -91,7 +91,7 @@ pagination:
 ### Phantom settings
 footer_text: '© 2022 Baolu Yu'
 admin_name: 'Baolu Yu'
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true
