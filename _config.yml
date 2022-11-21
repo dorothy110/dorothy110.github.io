@@ -18,8 +18,8 @@ email: 'byu69@wisc.edu'
 description: "I'm a Information Science student in UW-Madison and Here are my projects about Mobile App development and Web development."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dorothy110.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'doroth110'
+# twitter_username: 'jamigibbs'
+github_username: 'dorothy110'
 medium_username: 'https://www.linkedin.com/in/baoluyu'
 
 # Build settings
