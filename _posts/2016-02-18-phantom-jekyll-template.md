@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Phantom'
-date: 2022-011-20 21:15:00
+date: 2022-11-20 21:15:00
 categories: IOS development design
 tags: XCode Swift
 featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
