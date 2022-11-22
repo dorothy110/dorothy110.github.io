@@ -7,6 +7,10 @@
   <a href="{{ post.project_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a>
   {% endif %}
 
+  {% if post.project_link2 != empty %}
+  <a href="{{ post.project_link2 }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a>
+  {% endif %}
+
   {% if post.tags != empty %}
   <div class="tags">
     {% for tag in post.tags %}
@@ -15,11 +19,11 @@
   </div>
   {% endif %}
 
-  <!-- {% if post.categories != empty %}
+  {% if post.categories != empty %}
   <div class="categories">
     {% for category in post.categories %}
       <span>{{ category }}</span>
     {% endfor %}
   </div>
-  {% endif %} -->
+  {% endif %}
 </div>

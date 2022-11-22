@@ -8,6 +8,7 @@ tags: Swift XCode
 # featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
 featured_image: '/img/posts/carpany.gif'
 project_link: 'https://github.com/codepath-ios-group23/Carpany'
+project_link2: 'https://www.youtube.com/watch?v=yDyZk5129VM'
 button_icon: 'github'
 button_text: 'Visit Project'
 lead_text: ' Carpany is an iOS Application for all car sellers, car owners and car fans. </p>
