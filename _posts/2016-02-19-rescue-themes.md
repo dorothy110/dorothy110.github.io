@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Rescue Themes'
+title: 'Instagram Monitor'
 date: 2016-02-20 15:56:00
-categories: development design
+categories: IOS
 tags: WordPress PHP Sass
 featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
-project_link: 'https://rescuethemes.com'
-button_text: 'Visit Rescue Themes'
-button_icon: 'wordpress'
-lead_text: 'Designed and developed all WordPress themes'
+project_link: 'https://github.com/dorothy110/instagram'
+button_text: 'Visit Project'
+button_icon: 'github'
+lead_text: 'Monitoring '
 ---
