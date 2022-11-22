@@ -1,15 +1,15 @@
 ---
 layout: inner
 position: left
-title: 'Tic-Tac-Toe'
+title: 'IOS mobile app - Carpany'
 date: 2022-07-29 15:56:00
-categories: Data Analytics
-tags: Unity C#
+categories: Software Development
+tags: Swift XCode
 # featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-featured_image: '/img/posts/ins.gif'
-project_link: 'https://github.com/dorothy110/Tic-Tac-Toe'
+featured_image: '/img/posts/carpany.gif'
+project_link: 'https://github.com/codepath-ios-group23/Carpany'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: ' Easy difficulty has the AI choose a tile at random to mark. </p>
-Hard difficulty involves a MiniMax algorithm, that checks which outcome is the best (and applies a bit of randomization to it, to make it easier for the player) and picks that spot.'
+lead_text: ' Carpany is an iOS Application for all car sellers, car owners and car fans. </p>
+In Carpany, people can stay up-to-date with the latest car news, filter the posts they are interested in and read the full text, and search for information about specific cars and car-related products, including: release dates, latest prices and discounts, word of mouth and reviews, etc. In addition, car fans with the same interests can create their own circles of different themes and chat, share posts and post messages in them. Users can also add friends to each other, share and chat. Various posts within the software can also be shared on different social media platforms. Car manufacturers and retailers of related products can also register in the application and post information and posts about their products. In addition, the application also integrates with the map function, which allows people to find parking lots, related stores, gas stations, as well as mark the related car retailers and product discount stores according to the cars owned by different users, etc.'
 ---
