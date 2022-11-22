@@ -3,7 +3,7 @@ layout: inner
 position: left
 title: 'Carpany'
 date: 2022-11-20 21:15:00
-categories: IOS development
+categories: Software Development
 tags: XCode Swift
 featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
 project_link: 'https://github.com/codepath-ios-group23/Carpany'

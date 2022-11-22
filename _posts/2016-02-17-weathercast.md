@@ -3,7 +3,7 @@ layout: inner
 position: left
 title: 'Tic-Tac-Toe'
 date: 2022-07-29 15:56:00
-categories: development
+categories: Data Analytics
 tags: Unity C#
 featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
 project_link: 'https://github.com/dorothy110/Tic-Tac-Toe'
