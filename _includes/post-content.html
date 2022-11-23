@@ -3,12 +3,12 @@
 
   <p class="excerpt">{{ post.lead_text }}</p>
 
-  {% if post.project_link != empty and post.project_link2 != empty%}
+  {% if post.project_link != empty %}
   <a href="{{ post.project_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a>
-  <a href="{{ post.project_link2 }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon2}} fa-lg"></i>{{post.button_text2}}</button></a>
-
-  {% else %}
-  <a href="{{ post.project_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a>
+  <!-- <a href="{{ post.project_link2 }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon2}} fa-lg"></i>{{post.button_text2}}</button></a>
+  <!-- and post.project_link2 != empt
+  {% else %} -->
+  <!-- <a href="{{ post.project_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a> --> -->
 
   {% endif %}
 
@@ -18,8 +18,8 @@
   {% if post.tags != empty %}
   <div class="tags">
     {% for tag in post.tags %}
-    <!-- <span>{{ tag }}</span> -->
-    <span class="label label-primary"></i>{{ tag }}</span>
+    <span>{{ tag }}</span>
+
     {% endfor %}
   </div>
   {% endif %}
