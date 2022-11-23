@@ -13,6 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+section_title: "Latest Work"
+section_subtitle: "I have experience in a Data Analytics and Software development. Have a look at what I'm working on right now."
+
 title: "Hello. I'm Baolu Yu."
 email: 'byu69@wisc.edu'
 description: "I'm a Information Science student in UW-Madison and Here are my projects about Mobile App development and Web development."
