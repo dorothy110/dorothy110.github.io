@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Bloc Jams Angular'
 date: 2016-02-20 14:15:00
 categories: ’Software Development‘
