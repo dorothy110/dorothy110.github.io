@@ -7,6 +7,7 @@ categories: 'Data Analytics'
 tags: Python
 featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
 project_link: 'hhttps://hbcumobility.cci.drexel.edu/'
+project_link2: ''
 button_text: 'Visit Website'
 button_icon: 'browser'
 lead_text: ' This project will identify and seek to understand factors associated with mobility and retention decisions for HBCU faculty and provide data-backed evidence to support a diverse, inclusive, and equitable scientific workforce. '
