@@ -7,8 +7,8 @@ permalink: /about/
  <img  width="800" height="400" src="./img/Welcome.gif">
 </p>
 
-<h1 align="Center" id="macropower-title">:wave: Hey there! I'm Baolu Yu </h1>
-<h3 align="Center">  Data Analysis | Software development </h3>
+<h1 align="Center" id="macropower-title"> Hey there! I'm Baolu Yu </h1>
+<h3 align="Center"> ❤️ Data Analysis | Software development ❤️ </h3>
 <h3 align="Center"> ❤️ who loves continually learning and improving myself.❤️  </h3>
 
 <hr>
