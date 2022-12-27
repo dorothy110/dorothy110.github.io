@@ -1,53 +1,205 @@
-<p align="center">
- <img  width="800" height="400" src="img/Welcome.gif">
-</p>
+---
+layout: inner
+title: About
+permalink: /about/
+---
+## Markdown
 
-<h1 align="Center" id="macropower-title">:wave: Hey there! I'm Baolu Yu </h1>
-<h3 align="Center">  Data Analysis | Software development </h3>
-<h3 align="Center"> ❤️ who loves continually learning and improving myself.❤️  </h3>
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-<hr>
+[Link to another page](/index.html).
 
-Hi, I'm [Baolu Yu](https://dorothy110.github.io//), a student Major in Information Science in UW-Madison. 
+There should be whitespace between paragraphs.
 
-I always feel a great sense of accomplishment when I am able to integrate resources and create platforms. My motivation for learning data analysis was to improve the performance of my family's business, and to achieve this, I have learned skills in database management and design, data cleansing and analysis, machine learning with a focus on NLP, and various tools for data visualization. I also became deeply interested in software and website development, because the process of designing behavior and thought allows for creativity, and products can be implemented according to my own ideas and concepts. The results of this implementation then create my channels for communication and exchange. Although I am still in the process of exploration, I am very clear that I will continue on this path.
+# Header 1
 
-I believe that the pursuit of knowledge and self-improvement is a lifelong journey that brings joy and enrichment to my life. Whether it's learning a new tech skill, exploring a new project, or finding ways to grow and develop as a person, I am constantly seeking out opportunities to learn and grow. I believe that this mindset has helped me to become a more well-rounded and fulfilled individual, and I hope to continue this journey of self-discovery and improvement for many years to come.
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Experience:
-I have previously worked in the investment banking and sales industries for two years, and later worked as a data analyst for an e-commerce company for one year. Currently, I am a TA for a database course at UW-Madison and have also interned for DOIT.
+## Header 2
 
-**Data Analysis:**
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-- **Database Design:** SQL, MongoDB, Microsoft Access
-- **Data Visualization:** Tableau, Gephi, Python, Google Data Studio, VBA
-- **Text Mining**:NLP, Bag-of-words models, LDA Topic Modeling, Text Clustering, Kmeans
+### Header 3
 
-**Software Development:**
+{% highlight js %}
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+{% endhighlight %}
 
-- **Mobile app:** IOS (XCode)
-- **Website Framework:** Django, Flask
-- **Language:** Python, Swift, C#
+{% highlight ruby %}
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+{% endhighlight %}
 
- ## ⚙️ &nbsp;Project list
-- [IOS - Carpany](https://github.com/codepath-ios-group23/Carpany//)
-- [IOS - Instagram](https://github.com/dorothy110/instagram//)
+#### Header 4
 
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
+##### Header 5
 
-## Where to find me:
-Feel free to reach out if you have any questions :
-<!-- Social icons section -->
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/baoluyu"><img width="32px" alt="linkedin" title="linkedin" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dorothy110.github.io/"><img width="32px" alt="Web" title="Web" src="https://w7.pngwing.com/pngs/929/206/png-transparent-computer-icons-hyperlink-symbol-link-miscellaneous-text-logo.png"/></a>
-</p>
+###### Header 6
 
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
-<hr>
-<p align="center">
-   <i>青衿之志，履践致远</i>
-   <br>
-<br>
+### There's a horizontal rule below this.
+
+---
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Wide image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+{% highlight txt %}
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+{% endhighlight %}
+
+{% highlight txt %}
+The final element.
+{% endhighlight %}
+
+---
+
+## Syntax highlighting
+
+Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
+
+To render a code block with syntax highlighting, surround your code as follows:
+
+{% highlight markdown %}
+{% raw %}
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+{% endraw %}
+{% endhighlight %}
+
+[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
+
+### Examples
+
+---
+
+#### Bash
+
+{% highlight bash %}
+>_ ssh -i ~/.ssh/id_rsa account@host.com
+account@host:~$
+$ var="my-value"
+$ echo $var
+my-value
+$ logout
+{% endhighlight %}
+
+#### HTML
+
+{% highlight html %}
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="UTF-8">
+   <title>title</title>
+ </head>
+ <body>
+
+ </body>
+</html>
+{% endhighlight %}
+
+#### CSS
+
+{% highlight css %}
+/*--------------------------------------------------------------
+	1.0 Defaults
+--------------------------------------------------------------*/
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1200px;
+  }
+}
+
+body {
+  background-color: #e9edf0;
+  @extend %opensans;
+  -webkit-font-smoothing: antialiased;
+}
+{% endhighlight %}
+
+#### YAML
+
+{% highlight yaml %}
+### Phantom settings
+paginate: 10
+footer_text: '© 2018 Jami Gibbs'
+admin_name: 'Jami Gibbs'
+google_analytics: "UA-9999999-99" # Update with your own tracking ID
+
+#### Phantom Navigation menu
+enable_nav: true
+nav_item:
+  - { url: '/', text: 'Home' }
+  - { url: '/about', text: 'About' }
+{% endhighlight %}
