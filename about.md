@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p align="center">
- <img  width="800" height="400" src="img/Welcome.gif">
+ <img  width="800" height="400" src="dorothy110.github.io/img/Welcome.gif">
 </p>
 
 <h1 align="Center" id="macropower-title">:wave: Hey there! I'm Baolu Yu </h1>
@@ -34,21 +34,10 @@ I have previously worked in the investment banking and sales industries for two 
 - **Website Framework:** Django, Flask
 - **Language:** Python, Swift, C#
 
- ## ⚙️ &nbsp;Project list
+ ## Project list
 - [IOS - Carpany](https://github.com/codepath-ios-group23/Carpany//)
 - [IOS - Instagram](https://github.com/dorothy110/instagram//)
 
-
-
-## Where to find me:
-Feel free to reach out if you have any questions :
-<!-- Social icons section -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/baoluyu"><img width="32px" alt="linkedin" title="linkedin" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dorothy110.github.io/"><img width="32px" alt="Web" title="Web" src="https://w7.pngwing.com/pngs/929/206/png-transparent-computer-icons-hyperlink-symbol-link-miscellaneous-text-logo.png"/></a>
-</p>
 
 
 <hr>
