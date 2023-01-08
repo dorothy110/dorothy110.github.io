@@ -18,7 +18,7 @@ section_subtitle: "I have experience in a Data Analytics and Software developmen
 
 title: "Hello. I'm Baolu Yu."
 email: 'byu69@wisc.edu'
-description: "I'm a Information Science student in UW-Madison and Here are my projects about Mobile App development and Web development."
+description: "I'm a Data Analyst and Software Developer, here are my projects."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dorothy110.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 # twitter_username: 'jamigibbs'
@@ -100,4 +100,4 @@ enable_contact: true
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/about', text: 'About Me' }
