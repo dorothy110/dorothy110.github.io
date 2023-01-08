@@ -99,5 +99,6 @@ enable_contact: true
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Projects' }
+  - { url: '/', text: 'SDE  Projects' }
   - { url: '/about', text: 'About Me' }
+  - { url: '/da', text: 'DA Projects' }
