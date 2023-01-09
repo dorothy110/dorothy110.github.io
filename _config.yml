@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dorothy110.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 # twitter_username: 'jamigibbs'
 github_username: 'dorothy110'
-medium_username: 'baoluyu'
+linkedin_username: 'baoluyu'
 
 # Build settings
 markdown: kramdown
@@ -101,5 +101,7 @@ enable_contact: true
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Projects' }
+  - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About Me' }
+  - { url: '/#section1', text: 'Software Projects' }
+  - { url: '/#section2', text: 'Data Analytics Projects' }

@@ -8,7 +8,7 @@
           <div class="col-md-12">
 
             {% if site.section1_title != '' %}
-            <h2 class="section-title text-center">{{ site.section1_title }}</h2>
+            <h2 id="section1" class="section-title text-center">{{ site.section1_title }}</h2>
             {% endif %}
             {% if site.section1_subtitle != '' %}
             <p class="section-subtitle text-center">{{ site.section1_subtitle }}</p>
@@ -37,9 +37,9 @@
             <div class="break"></div>
 
             {% if site.section2_title != '' %}
-            <h2 class="section-title text-center">{{ site.section2_title }}</h2>
+            <h2 id="section2" class="section-title text-center">{{ site.section2_title }}</h2>
             {% endif %}
-            {% if site.section1_subtitle != '' %}
+            {% if site.section2_subtitle != '' %}
             <p class="section-subtitle text-center">{{ site.section2_subtitle }}</p>
             {% endif %}
 
