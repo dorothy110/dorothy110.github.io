@@ -1,4 +1,5 @@
 ---
+title: DA Projects
 permalink: /da/
 ---
 
