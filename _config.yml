@@ -13,8 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-section_title: "Latest Work"
-section_subtitle: "Have a look at what I'm working on right now."
+section1_title: "Software Engineering Projects"
+section1_subtitle: "Have a look at what I'm working on right now on software engineering."
+section2_title: "Data Analytics Projects"
+section2_subtitle: "Have a look at what I'm working on right now on data analytics."
 
 title: "Hello. I'm Baolu Yu."
 email: 'byu69@wisc.edu'
@@ -99,6 +101,5 @@ enable_contact: true
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'SDE  Projects' }
+  - { url: '/', text: 'Projects' }
   - { url: '/about', text: 'About Me' }
-  - { url: '/da', text: 'DA Projects' }
