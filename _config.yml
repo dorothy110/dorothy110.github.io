@@ -101,4 +101,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'SDE  Projects' }
   - { url: '/about', text: 'About Me' }
-  - { url: '/da.html', text: 'DA Projects' }
+  - { url: '/da', text: 'DA Projects' }
