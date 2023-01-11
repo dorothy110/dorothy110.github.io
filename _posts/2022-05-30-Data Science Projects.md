@@ -1,12 +1,12 @@
 ---
 layout: inner
 position: left
-title: 'Data Science Porjects'
-date: 2022-05-21 14:15:00
+title: 'Data Science Projects'
+date: 2022-05-30 14:15:00
 categories: 'Data_Analytics'
 tags: Python
 featured_image: '/img/posts/dsprojects.jpg'
-project_link: 'https://github.com/dorothy110/DataScience.%20Loan%20Analysis'
+project_link: 'https://github.com/dorothy110/DataScience'
 project_link2: ''
 button_icon: 'github'
 button_text: 'Visit Project'
