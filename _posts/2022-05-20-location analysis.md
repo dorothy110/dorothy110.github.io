@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Location Analysis'
-date: 2021-02-20 14:15:00
+date: 2022-05-20 14:15:00
 categories: 'Data_Analytics'
 tags: Python Tableau
 featured_image: '/img/posts/viz.gif'
