@@ -35,11 +35,17 @@ I have previously worked in the investment banking and sales industries for two 
 - **Language:** Python, Swift, C#
 
 ## Projects List:
+**Data Analysis:**
+- [Data Science Projects - Loan Analysis,BFS,DFS,AB testing,Geo Analysis,Linear Regression,Logistic Regression](https://github.com/dorothy110/DataScience//)
+- [Data Visualization - Location Analysis](https://github.com/dorothy110/DataVisualization-PolicyBrief//)
+- [Research - Academic mobility at HBCUs](https://hbcumobility.cci.drexel.edu//)
+- [Scrape - Web Scrapping Indeed](https://github.com/dorothy110/Web-Scrapping-Indeed//)
+
+
+**Software Development:**
 - [IOS - Carpany](https://github.com/codepath-ios-group23/Carpany//)
 - [IOS - Instagram](https://github.com/dorothy110/instagram//)
-
-
-
+- [Website - Malaxy](https://github.com/dorothy110/Malaxy//)
 <hr>
 <p align="center">
    <i>青衿之志，履践致远</i>
