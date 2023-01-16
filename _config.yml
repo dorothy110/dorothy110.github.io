@@ -27,6 +27,7 @@ url: "https://dorothy110.github.io" # the base hostname & protocol for your site
 github_username: 'dorothy110'
 linkedin_username: 'baoluyu'
 
+
 # Build settings
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
