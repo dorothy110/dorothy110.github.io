@@ -40,12 +40,15 @@ I have previously worked in the investment banking and sales industries for two 
 - [Data Visualization - Location Analysis](https://github.com/dorothy110/DataVisualization-PolicyBrief//)
 - [Research - Academic mobility at HBCUs](https://hbcumobility.cci.drexel.edu//)
 - [Scrape - Web Scrapping Indeed](https://github.com/dorothy110/Web-Scrapping-Indeed//)
+- [Options Price Prediction](https://github.com/dorothy110/OptionsPricingPredict//)
 
 
 **Software Development:**
 - [IOS - Carpany](https://github.com/codepath-ios-group23/Carpany//)
 - [IOS - Instagram](https://github.com/dorothy110/instagram//)
 - [Website - Malaxy](https://github.com/dorothy110/Malaxy//)
+- [Website - Ecommerce]()
+
 <hr>
 <p align="center">
    <i>青衿之志，履践致远</i>
