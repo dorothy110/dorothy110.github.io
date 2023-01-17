@@ -12,8 +12,7 @@ button_icon: 'github'
 button_text: 'Visit Project'
 button_icon2: 'presentation-screen'
 button_text2: 'Slides'
-lead_text: 'To give students job-seeking instructions, I analyzed 3 job positions based in 3 cities: Software Developer, UX Programmer, Data Analyst on the Indeed website in San Francisco, Chicago, and New York by web scraping Indeed website. <br>
-What I do here is crawling the data through the site, cleaning it up, and analyzing and visualizing it. The following techniques are applied: Pandas, URlib, RE, requests, Itertools, BS4, Time, Numpy, Plotly, NLP, and Gensim.
+lead_text: 'To give students job-seeking instructions, I analyzed 3 job positions based in 3 cities: Software Developer, UX Programmer, Data Analyst on the Indeed website in San Francisco, Chicago, and New York by web scraping Indeed job website.
 '
 section: 2
 ---
