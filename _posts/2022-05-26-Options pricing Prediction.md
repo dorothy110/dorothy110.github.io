@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Options pricing Prediction'
-date: 2022-05-30 14:15:00
+date: 2022-05-26 14:15:00
 categories: 'Data_Analytics'
 tags: MATLAB
 featured_image: '/img/posts/MSE.png'
