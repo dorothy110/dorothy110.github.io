@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Data Science Projects'
-date: 2022-05-30 14:15:00
+date: 2022-05-15 14:15:00
 categories: 'Data_Analytics'
 tags: Python
 featured_image: '/img/posts/dsprojects.jpg'
