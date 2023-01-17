@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Web Scrapping Indeed'
 date: 2022-05-29 14:15:00
 categories: 'Data_Analytics'
